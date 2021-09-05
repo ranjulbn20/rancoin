@@ -1,5 +1,4 @@
 # rancoin
-Implementation of a Cryptocurrency using Blockchain
 The project has the following features:-
 1. Transferring and receiving of funds between different wallets is simulated using 3 dummy nodes with Postman API.
 2. Created an immutable chain of blocks, each block being connected to the previous block(with a SHA256 Hash).
